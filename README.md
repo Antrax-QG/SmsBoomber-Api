@@ -1,9 +1,14 @@
-#BOOMBER API +98
-#Confirmation number
-#control panel admin
-#Buy coins
-#Send account
-#and database
+//#BOOMBER API +98
+
+//#Confirmation number
+
+//#control panel admin
+
+//#Buy coins
+
+//#Send account
+
+//#and database
 
 #<<<<<<<SMS BOOMBER>>>>>>>#
 Open file config.php
